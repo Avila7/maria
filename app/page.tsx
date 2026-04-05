@@ -75,7 +75,7 @@ Even though you dont want to talk with me, using work excuse😂, It was nice to
         <p className="text-[#e891b0] mb-10 pixel-font text-xl">be honest</p>
         <div className="flex gap-6 items-center justify-center">
           <button
-            onClick={() => setAnswer(yes)}
+            onClick={() => setAnswer("yes")}
             className="neu-button font-bold text-2xl pixel-font"
           >
             Yes
