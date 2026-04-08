@@ -48,7 +48,7 @@ export default function Home() {
           className="w-96 md:w-[32rem] rounded-2xl mb-10 relative z-10"
         />
         <h3 className="text-2xl md:text-4xl font-bold text-[#d63384] pixel-font relative z-10">
-        thank youuuu, tell me on ig when your free to go out.
+        I knew it, i still love you tho.
         </h3>
       </main>
     );
@@ -68,10 +68,8 @@ export default function Home() {
       </video>
       <div style={glitchStyle} className="relative z-10">
         <h1 className="text-4xl md:text-6xl font-bold text-[#d63384] mb-6 pixel-font">
-         Numbers 6:24-26
- ...Maria, today i wanted to apologize for the way i mistreated you in the past. I know i gave off mixed signals when i would message you one way but act different in person. I didnt mean to do that on purpose, its just im an overthinker and get very nervous when im around you, when that happens i end up doing and saying nothing around you. To you, It mustve felt that i was ignoring  you or that i didnt care about you. But i really do care... please forgive me...
-Maria do you remember when we first met?  my brain wouldnt let me speak even back then but i still asked you out that same day. you weren’t looking to date anyone at that time but You said you would pray for me and i said i would pray for you too...well I’ve been praying for you since November when i saw you for the second time at the thanksgiving youth event, you probably dont remember this but at one point we looked at each other, met eyes and it was only for a few seconds but it felt like time stopped. Well The same thing happened last sunday when i was supposed to talk to you but again i looked at you, got lost in your eyes and my brain shut down😂.….... I know that i messed things up with you and wont visit your church anymore, at least until i lose feelings for you.
-Even though you dont want to talk with me, using the "i got work" excuse😂, It was nice to look at you and appreciate God’s work before i go. You've made a massive impact in my life and hope that God blesses you with the desires of your heart. goodbye maria and sorry for being so awkward around you. i still dont know how to say "ride" in spanish btw🥀....but in case you ever want to give me another chance. press yes.
+         Were you lying when you said, "cant talk, i have to go to work"?
+ 
         </h1>
         <p className="text-[#e891b0] mb-10 pixel-font text-xl">be honest</p>
         <div className="flex gap-6 items-center justify-center">
@@ -96,7 +94,7 @@ Even though you dont want to talk with me, using the "i got work" excuse😂, It
         </div>
         {noScale === 0 && (
           <p className="mt-6 text-[#d63384] pixel-font animate-pulse text-xl">
-            mariaaa pls just say yes
+            maria just say yes
           </p>
         )}
       </div>
