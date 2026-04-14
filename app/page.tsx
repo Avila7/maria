@@ -48,7 +48,7 @@ export default function Home() {
           className="w-96 md:w-[32rem] rounded-2xl mb-10 relative z-10"
         />
         <h3 className="text-2xl md:text-4xl font-bold text-[#d63384] pixel-font relative z-10">
-        I knew it, still love you tho.
+        I knew it, still love you tho😭 I would probably froze up like that other time and said nothing again. 
         </h3>
       </main>
     );
@@ -94,7 +94,7 @@ export default function Home() {
         </div>
         {noScale === 0 && (
           <p className="mt-6 text-[#d63384] pixel-font animate-pulse text-xl">
-            maria just say yes
+            mariaaa dont lie🤣 press yes
           </p>
         )}
       </div>
