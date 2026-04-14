@@ -48,7 +48,7 @@ export default function Home() {
           className="w-96 md:w-[32rem] rounded-2xl mb-10 relative z-10"
         />
         <h3 className="text-2xl md:text-4xl font-bold text-[#d63384] pixel-font relative z-10">
-        I knew it😭 I would have probably froze up like that other time and said nothing again. 
+        I knew it😭 The way you matched that flower dress with your shoes beautifully that day, I probably would've frozen up like that other time and said nothing again.
         </h3>
       </main>
     );
